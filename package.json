@@ -1,0 +1,15 @@
+{
+  "name": "ShakeShake",
+  "description": "A game that shows off using device accelerometer",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+  },
+  "happyFunTimes": {
+    "gameId": "shakeshake",
+    "category": "example",
+    "apiVersion": "1.6.0",
+    "gameType": "html",
+    "minPlayers": 1
+  }
+}
